@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<c3p0-config>
+
+    <named-config name="helloc3p0">
+        //提供获取链接的四个基本信息
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="jdbcUrl">jdbc:mysql://localhost:3306/jdbc_test</property>
+        <property name="user">root</property>
+        <property name="password">abcd4567</property>
+
+        <!--      进行数据库链接池管理的基本信息-->
+        <!--当数据库链接池的连接数不够时，c3p0向数据库一次性向服务区申请的连接数-->
+        <property name="acquireIncrement">50</property>
+        <!--   c3p0初始化时候的连接叔     -->
+        <property name="initialPoolSize">100</property>
+        <!--   c3p0连接池中维护最少的连接数     -->
+        <property name="minPoolSize">50</property>
+        <!--   c3p0连接池中维护最多的连接数     -->
+        <property name="maxPoolSize">1000</property>
+        <!-- intergalactoApp adopts a different approach to configuring statement caching -->
+        <!--c3p0数据库连接池中维护最多的statement-->
+        <property name="maxStatements">0</property>
+        <!--每个连接中可使用的最多的statement的个数-->
+        <property name="maxStatementsPerConnection">5</property>
+
+
+    </named-config>
+</c3p0-config>
+
+        <!--<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">-->
+        <!--<properties/>-->

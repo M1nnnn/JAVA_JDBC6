@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de6ab2a9-5a4e-456c-a73e-90bf215c074e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="mybatis-cfg.xml " />
+        <option value="XML" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../Myresouses/JDBC/commons-dbcp2-2.4.0-bin/commons-dbcp2-2.4.0/commons-dbcp2-2.4.0.jar!/org/apache/commons/dbcp2/BasicDataSource.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FUWqwHLNNFCkcWzN6XKnbZ0ObD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="XML" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Myresouses/Github_Pro/Java/Java001" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jdbc5.dbutils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myjava\JAVA_JDBC" />
+      <recent name="D:\myjava\JAVA_JDBC\src\com\Jdbc\Statement2" />
+      <recent name="D:\myjava\JAVA_JDBC\lib" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jdbc3.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Jdbc.Statement2" />
+      <recent name="com.Jdbc.preparestatement" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.QueryTest.QueryTest5">
+    <configuration name="QueryTest.QueryTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA_JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc5.dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc5.dbutils" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc5.dbutils.QueryTest" />
+      <option name="METHOD_NAME" value="QueryTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTest.QueryTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA_JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc5.dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc5.dbutils" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc5.dbutils.QueryTest" />
+      <option name="METHOD_NAME" value="QueryTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTest.QueryTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA_JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc5.dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc5.dbutils" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc5.dbutils.QueryTest" />
+      <option name="METHOD_NAME" value="QueryTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTest.QueryTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA_JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc5.dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc5.dbutils" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc5.dbutils.QueryTest" />
+      <option name="METHOD_NAME" value="QueryTest4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryTest.QueryTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JAVA_JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc5.dbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc5.dbutils" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc5.dbutils.QueryTest" />
+      <option name="METHOD_NAME" value="QueryTest5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QueryTest.QueryTest5" />
+        <item itemvalue="JUnit.QueryTest.QueryTest4" />
+        <item itemvalue="JUnit.QueryTest.QueryTest3" />
+        <item itemvalue="JUnit.QueryTest.QueryTest2" />
+        <item itemvalue="JUnit.QueryTest.QueryTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de6ab2a9-5a4e-456c-a73e-90bf215c074e" name="Changes" comment="" />
+      <created>1664547341158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664547341158</updated>
+      <workItem from="1664547342176" duration="4784000" />
+      <workItem from="1664552500044" duration="1122000" />
+      <workItem from="1664592975613" duration="3627000" />
+      <workItem from="1664596649210" duration="5064000" />
+      <workItem from="1664607886067" duration="1694000" />
+      <workItem from="1664630881427" duration="10039000" />
+      <workItem from="1664716298468" duration="1760000" />
+      <workItem from="1664773713185" duration="2380000" />
+      <workItem from="1664776133662" duration="436000" />
+      <workItem from="1664776593618" duration="4060000" />
+      <workItem from="1664780707085" duration="1818000" />
+      <workItem from="1664782703139" duration="290000" />
+      <workItem from="1664783006949" duration="678000" />
+      <workItem from="1664795007431" duration="10629000" />
+      <workItem from="1664876529574" duration="21003000" />
+      <workItem from="1664961390505" duration="1777000" />
+      <workItem from="1664963195915" duration="7556000" />
+      <workItem from="1665043810794" duration="13256000" />
+      <workItem from="1665070788255" duration="255000" />
+      <workItem from="1665234110692" duration="7203000" />
+      <workItem from="1665243839701" duration="72000" />
+      <workItem from="1665319889519" duration="10715000" />
+      <workItem from="1665378643744" duration="3025000" />
+      <workItem from="1665381710940" duration="23342000" />
+      <workItem from="1665497741325" duration="4730000" />
+      <workItem from="1665502534496" duration="3019000" />
+      <workItem from="1665580176030" duration="2440000" />
+      <workItem from="1665637703975" duration="4546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

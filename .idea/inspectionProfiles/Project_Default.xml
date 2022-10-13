@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="TOP_LEVEL_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="INNER_CLASS_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="METHOD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+        </value>
+      </option>
+      <option name="FIELD_OPTIONS">
+        <value>
+          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+          <option name="REQUIRED_TAGS" value="" />
+        </value>
+      </option>
+      <option name="IGNORE_DEPRECATED" value="false" />
+      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+      <option name="myAdditionalJavadocTags" value="Date,Author,Descriped:对数据库customers表中的一条数据据进行修改,ClassName:,Description:,Description:通用的增删改操作,Description:调用通用的增删改操作进行删除和增加,Descriped:常规方法：对数据库customers表中的一条数据据进行修改,Description:针对Customers表进行的查询操作,Description:针对Customers表进行的查询操作//要查询的各个表的字段不一样,Description:针对Customers表进行的通用查询操作,Description:针对Order表进行的通用查询操作,Description:使用preparedstatement实现对不同表的查询操作,Return:,Author:,Date:,Param:,Description:用preparestatement操作blob类型的数据,Description:用prepare,Description:用preparestatement实现批量处理,Description:考虑事务的增删改操作" />
+    </inspection_tool>
+  </profile>
+</component>
